@@ -44,10 +44,10 @@ $ https://code.visualstudio.com/
 # Acesse o terminal/cmd de sua plataforma (Win, Linux, etc)
 
 # Clone este repositório com o seguinte comando abaixo
-$ git clone https://github.com/dimasdevspro/PortfolioDiscovery
+$ git clone https://github.com/dimasdevspro/countdown
 
 # Ainda no terminal, acesse a pasta com mais um comando
-$ cd PortfolioDiscovery
+$ cd countdown
 
 # Agora digite este comando, para editar/testar o projeto
 $ code .
