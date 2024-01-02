@@ -101,6 +101,7 @@
       justify-content: space-between;
       align-items: center;
       text-align: center;
+      gap: 30px;
   }
 
   .countdown-el span {
@@ -171,4 +172,17 @@
   }
   form button {
       margin-top: 10px;
+  }
+
+  /* Responsibility */
+
+  @media (max-width: 941px){
+    .ready_launch h1{
+        position: relative;
+        margin-bottom: 30px;
+        height: auto;
+    }
+    .countdown-container {
+        position: relative;
+    }
   }
