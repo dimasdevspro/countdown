@@ -7,7 +7,7 @@ function formatTime(time){
     return time < 10 ? `0${time}` : time;
 }
 
-const newYear = "1 Jan 2023"
+const newYear = "1 Jan 2035"
 
 function countdown(){
 
