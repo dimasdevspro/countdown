@@ -87,6 +87,9 @@
     font-weight: 400;
   }
 
+  .rocket_background img {
+    width: 98%;
+  }
 
   .ready_launch h1 {
       height: 50px;
